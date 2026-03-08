@@ -5,7 +5,9 @@
   <img src="https://github.com/user-attachments/assets/180c571f-b48e-4b30-9d2a-84778a4a49db" width="150"/>
 </p>
 
-**Swift-based macOS reimplementation inspired by Simula3MS**, an educational computer architecture simulator from the **Computer Architecture Group at the University of A Coruña**, featuring **MIPS-like single-cycle, multi-cycle, pipelined, scoreboard, and Tomasulo simulation modes**.
+**Simula3MS-Swift** is a **native macOS reimplementation of an educational computer architecture simulator**, inspired by **Simula3MS** from the **Computer Architecture Group at the University of A Coruña**.
+
+It provides a graphical environment to **write, analyze, and debug assembly programs**, and to observe **memory, registers, and instruction flow** across different processor models.
 
 ---
 
@@ -42,9 +44,9 @@ Additional capabilities:
 - **Improved diagnostics and error reporting**
 - **Clearer editor–simulation workflow**
 - **Localized interface and messages**
-  - **Spanish**
   - **English**
   - **Galician**
+  - **Spanish**
 - **Better macOS integration**
   - `.s` assembly file opening
   - drag-and-drop support
