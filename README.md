@@ -9,6 +9,10 @@
 
 It provides a graphical environment to **write, analyze, and debug assembly programs**, and to observe **memory, registers, and instruction flow** across different processor models.
 
+<p align="center">
+  <img src="images/image_6.png" width="700" alt="Simulator view with datapath, registers and execution flow"/>
+</p>
+
 ---
 
 ## Features
@@ -50,6 +54,11 @@ Additional capabilities:
 - **Better macOS integration**
   - `.s` assembly file opening
   - drag-and-drop support
+
+<p align="center">
+  <img src="images/image_5.png" width="380" alt="Assembly editor and assemble output"/>
+  <img src="images/image_4.png" width="380" alt="Editor search and replace tools"/>
+</p>
 
 ---
 
