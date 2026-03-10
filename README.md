@@ -29,9 +29,10 @@ Native macOS version inspired by Simula3MS, an assembly-level computer architect
 - Visual views for registers, memory, and execution state
 - Localization support for **31 languages, including 14 with full Apple language API support**
 
-| | |
-|---|---|
-| ![](images/image_5.png) | ![](images/image_4.png) |
+<p align="center">
+  <img src="images/image_5.png" width="380">
+  <img src="images/image_4.png" width="380">
+</p>
 
 ---
 
