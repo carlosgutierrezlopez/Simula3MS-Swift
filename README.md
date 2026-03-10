@@ -31,7 +31,7 @@ Native macOS version inspired by Simula3MS, an assembly-level computer architect
 
 <p align="center">
   <img src="images/image_5.png" width="360">
-  <img src="images/image_4.png" width="370">
+  <img src="images/image_4.png" width="360">
 </p>
 
 ---
