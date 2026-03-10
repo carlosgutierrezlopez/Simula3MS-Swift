@@ -30,8 +30,8 @@ Native macOS version inspired by Simula3MS, an assembly-level computer architect
 - Localization support for **31 languages, including 14 with full Apple language API support**
 
 <p align="center">
-  <img src="images/image_5.png" width="350">
-  <img src="images/image_4.png" width="350">
+  <img src="images/image_5.png" width="360">
+  <img src="images/image_4.png" width="370">
 </p>
 
 ---
