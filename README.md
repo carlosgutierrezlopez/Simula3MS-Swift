@@ -8,7 +8,7 @@
 
 Native macOS version inspired by Simula3MS, an assembly-level computer architecture simulator developed at the University of A Coruña.
 
-![Simula3MS Screenshot](images/image_6.png)
+<img src="images/image_6.png">
 
 ---
 
