@@ -1,10 +1,8 @@
-<p align="right">
-  <img src="png_icons/simula3ms-macOS-Default.png" width="40">
-  <img src="png_icons/simula3ms-macOS-Dark.png" width="40">
-  <img src="png_icons/simula3ms-macOS-ClearLight.png" width="40">
-</p>
-
-# Simula3MS-Swift
+# Simula3MS-Swift <span style="float:right">
+<img src="png_icons/simula3ms-macOS-Default.png" width="36">
+<img src="png_icons/simula3ms-macOS-Dark.png" width="36">
+<img src="png_icons/simula3ms-macOS-ClearLight.png" width="36">
+</span>
 
 Native macOS version inspired by Simula3MS, an assembly-level computer architecture simulator developed at the University of A Coruña.
 
