@@ -36,6 +36,17 @@ Native macOS version inspired by Simula3MS, an assembly-level computer architect
 
 ---
 
+## Installation
+
+1. Download **Simula3MS-Swift.zip** from the latest release.
+2. If the file is not already uncompressed, double-click the `.zip` to extract it.
+3. Drag **Simula3MS-Swift.app** into the **Applications** folder.
+
+> [!IMPORTANT]
+> If macOS blocks the app on first launch, open **System Settings → Privacy & Security** and click **Open Anyway**.
+
+---
+
 ## Acknowledgements
 
 Inspired by the original **Simula3MS** project developed by the **Computer Architecture Group at the University of A Coruña**.
