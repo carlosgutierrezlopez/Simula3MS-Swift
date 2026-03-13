@@ -1,6 +1,5 @@
 # Simula3MS-Swift
 
-
 <img src="png_icons/simula3ms-macOS-ClearLight.png" width="50" align="right">
 <img src="png_icons/simula3ms-macOS-Dark.png" width="50" align="right">
 <img src="png_icons/simula3ms-macOS-Default.png" width="50" align="right">
