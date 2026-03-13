@@ -1,4 +1,4 @@
-# Simula3MS-Swift <img src="png_icons/simula3ms-macOS-Default.png" width="40" align="center">
+# Simula3MS-Swift <img src="png_icons/simula3ms-macOS-Default.png" width="40" align="right">
 
 <p align="center">
   <img src="png_icons/simula3ms-macOS-Default.png" width="130">
